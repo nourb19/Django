@@ -77,7 +77,7 @@ WSGI_APPLICATION = "GestionCabinetMedical.wsgi.application"
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.sqlite3",
-        "NAME": BASE_DIR / "3a26.sqlite3",
+        "NAME": BASE_DIR / "nour ben fradj.sqlite3",
     }
 }
 
